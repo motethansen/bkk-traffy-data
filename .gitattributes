@@ -1,2 +1,4 @@
+traffy_fulldata.ipynb filter=lfs diff=lfs merge=lfs -text
+traffy_location.ipynb filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
