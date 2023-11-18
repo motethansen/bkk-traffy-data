@@ -10,6 +10,7 @@ if you are using mac install using:
 brew install git-lfs
 ```
 
+Remember to use git lfs pull to update the files in your local repo
 
 
 Please create a virtual python env and import the packages by running
